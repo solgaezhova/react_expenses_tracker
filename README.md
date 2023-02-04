@@ -11,3 +11,5 @@ App features:
 - form inputs;
 - rendering lists;
 - conditional content.
+
+Check the website - https://solgaezhova.github.io/react_expenses_tracker/.
